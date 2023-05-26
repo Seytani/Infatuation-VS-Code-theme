@@ -1,0 +1,21 @@
+{
+  "name": "infatuation",
+  "displayName": "Infatuation",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Infatuation",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Infatuation-color-theme.json"
+      }
+    ]
+  }
+}
