@@ -1,8 +1,27 @@
 {
   "name": "infatuation",
   "displayName": "Infatuation",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A dark theme for Visual Studio Code. For those that want to code through rose-colored glasses.💖💐",
+  "version": "0.0.2",
+  "publisher": "PixelsInTheSky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seytani/Infatuation-VS-Code-theme.git"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Girly",
+    "Girl",
+    "Femme",
+    "Chic",
+    "Night Theme",
+    "Colorful",
+    "Pink",
+    "Rainbow",
+    "Cute"
+],
+"icon": "infatuation-icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
